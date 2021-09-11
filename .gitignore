@@ -21,6 +21,10 @@ __pycache__/
 !*media/.gitkeep
 media/*
 
+foodieblog/*
+
+
+
 log/debug.log
 
 build
